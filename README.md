@@ -108,16 +108,16 @@ Para rodar este projeto em seu ambiente local, siga os passos abaixo:
 *(Aqui você pode adicionar as imagens que você tem do projeto rodando, por exemplo:)*
 
 **Modo Claro:**
-![alt text](image.png)
+![Descrição da Imagem](https://github.com/cassio-leite/pokedex-app/blob/main/public/images/image.png?raw=true)
 
 **Modo Escuro:**
-![alt text](image-1.png)
+![Descrição da Imagem](https://github.com/cassio-leite/pokedex-app/blob/main/public/images/image-1.png?raw=true)
 
 **Página de Detalhes do Pokémon:**
-![alt text](image-2.png)
+![Descrição da Imagem](https://github.com/cassio-leite/pokedex-app/blob/main/public/images/image-2.png?raw=true)
 
 **Filtragem por Tipo:**
-![alt text](image-3.png)
+![Descrição da Imagem](https://github.com/cassio-leite/pokedex-app/blob/main/public/images/image-3.png?raw=true)
 
 ---
 
