@@ -11,8 +11,8 @@ import ThemeContext, { ThemeProvider as CustomThemeProvider } from './context/Th
 import AppThemingWrapper from './components/AppThemingWrapper';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode basename="/pokedex-app">
-    <BrowserRouter>
+  <React.StrictMode>
+    <BrowserRouter basename="/pokedex-app">
       <CustomThemeProvider>
         <AppThemingWrapper />
       </CustomThemeProvider>
